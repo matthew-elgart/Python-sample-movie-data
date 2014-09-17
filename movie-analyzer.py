@@ -273,7 +273,7 @@ processData(gross, movies)
 print("All movie data:")
 printData(movies)
 
-# answers to questions
+# Various uses of the created functions
 '''print('Which movies are both top rated and top grossing?')
 topMovies = bothTopRatedAndGrossing(movies)
 printData(topMovies)
